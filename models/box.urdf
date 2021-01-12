@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <robot name="box.urdf">
-  <link name="baseLink">
+  <link concave="yes" name="baseLink">
     <contact>
       <lateral_friction value="0.5"/>
       <rolling_friction value="0.0"/>
