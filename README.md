@@ -4,6 +4,10 @@ Looking at lego set no. 21313 (ship in bottle) I was wondering about 1x1 round p
 
 ![brick_image](img/brick_ref.jpeg)
 
+# Aim
+
+Even though I conlcuded few models amongst which one aimed to estimate number I have no way of testing them. Obviously I could just pour elements, but It assumes that I will have them in the first place. As a solution I created simple simulations in Blender, which is kind of slow and not particularly meant to be simulation program. I thought the easiest way to do it without blender would be to use pybullet engine to simulate rigid bodies of elements without actually loading all graphic elements and blender libraries. 
+
 # Calculations
 
 Quickly I formed few models to estimate how much space would it take.
